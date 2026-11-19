@@ -1,0 +1,24 @@
+# Python environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local editor and test state
+.vscode/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Streamlit local state and secrets
+.streamlit/secrets.toml
+
+# Trained checkpoints (keep the model required by the app)
+models/*
+!models/final_model.keras
+
+# Temporary files
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini

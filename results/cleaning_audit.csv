@@ -1,0 +1,9 @@
+,count
+initial_images,24998
+corrupted_or_unreadable,0
+exact_duplicates,26
+near_duplicates,4
+cross_label_duplicates,6
+too_small,1
+failed_on_export,0
+final_clean_images,24961

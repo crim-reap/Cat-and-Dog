@@ -1,0 +1,5 @@
+,"Inference (ms/image, batch=1)",Model size (MB),Parameters
+Custom CNN,12.11,51.52,4287809.0
+CNN + Augmentation,11.52,51.52,4287809.0
+Transfer Learning (frozen),164.52,9.64,2259265.0
+Transfer Learning (fine-tuned),158.96,21.73,2259265.0
